@@ -1,2 +1,2 @@
 # Git project
-This is awesome!
+up_to_date
